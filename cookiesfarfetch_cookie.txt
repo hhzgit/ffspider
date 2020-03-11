@@ -1,0 +1,14 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.farfetch.cn	TRUE	/	TRUE	1510327789	ABCheckout	{"exps":null}
+.farfetch.cn	TRUE	/	TRUE	1510327789	ABGeneral	{"exps":[{"exp":"120","g":1,"alt":"0"}]}
+.farfetch.cn	TRUE	/	TRUE	1510327789	ABLanding	{"exps":null}
+.farfetch.cn	TRUE	/	TRUE	1510327789	ABListing	{"exps":null}
+.farfetch.cn	TRUE	/	TRUE	1510327789	ABProduct	{"exps":null}
+.farfetch.cn	TRUE	/	TRUE	2287902589	BIcookieID	22a6f304-e8da-413c-aab9-e75f18340f7e
+.farfetch.cn	TRUE	/	TRUE	1511602189	FF.ApplicationCookie	FthdBaO6RHC9Hgx6TtXoUgVTSh62_2jtW4MTinTYrySoifFcXmRH4LhIvy0cx4mXi-g8xcC4VgtLDtQb9PlRSpy3G7YyNeYHJCxd5-JaBbKofURpD7CTeXmgY9Co5UvkIIK6jbXOAmzoqLtvzK6bgIZ3bo-Yun56OQzrGU1GKBnnhkw8-_A8UBDJhte9s9RtgU7bhqLqmJxoiTRkanWpsscjIr9bmhLQel_YW8UrnRJV8_rX
+.farfetch.cn	TRUE	/	TRUE		FF.Session	l0sthvrkqqlfcnfp1gz50y2x
+.farfetch.cn	TRUE	/	TRUE	1512034189	ckm-ctx-sf	/cn
+.farfetch.cn	TRUE	/	TRUE	1512898189	ub	
